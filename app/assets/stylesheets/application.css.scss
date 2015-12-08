@@ -107,6 +107,10 @@ body {
     .title {
         font-size: 2em;
     }
+    .snipTitle{
+        width: 80%;
+        text-overflow: ellipsis;
+    }
     .description {
         font-size: 1.3em;
         display: block;
@@ -119,6 +123,7 @@ body {
         padding: 10px;
         background-color: #EEE;
     }
+
 }
 
 .show-card {
